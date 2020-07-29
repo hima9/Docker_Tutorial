@@ -10,3 +10,9 @@ Docker is a set of platform as a service (PaaS) products that use OS-level virtu
 2) Click on download and select either Stable oe Edge Version. I have installed the stable version.
 3) Double click on the installer once downloaded.
 4) Open terminal and run docker version to check the version and to check if it's installed right.
+
+# Steps to install Docker on AWS
+
+1) Select EC2 and then select Amazon Linux 2 AMI. Click Next.
+2) Choose the free tier t2.micro option. We will select 1 instance and the rest configurations will be default. Give it a name, ex DockerHost.
+3) For the security configuration, for now allow "All Traffic". Review and Launch by selecting an existing key pair or by creating a new pair.
