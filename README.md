@@ -20,3 +20,7 @@ Docker is a set of platform as a service (PaaS) products that use OS-level virtu
 5) type "service docker start" and  "service docker status" to check the status of the docker.
 6) to run a container type "docker run hello-world"
 
+# Docker Ecosystem
+
+![Screenshot](Capture.png)
+
