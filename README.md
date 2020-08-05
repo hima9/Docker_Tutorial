@@ -22,5 +22,6 @@ Docker is a set of platform as a service (PaaS) products that use OS-level virtu
 
 # Docker Ecosystem
 
-![Screenshot](Capture.png)
+![alt text] (C:\Users\Hima\Dropbox\My PC (DESKTOP-6BSIAMS)\Desktop\Capture.png)
+
 
